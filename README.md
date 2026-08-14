@@ -2,7 +2,7 @@
 
 Full-stack engineer. I design and ship production systems — APIs, web apps, and mobile clients.
 
-Based in Isfahan. Previously CTO. Open to collaboration.
+Open to collaboration.
 
 Most of this lives in private repositories.
 

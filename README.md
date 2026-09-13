@@ -1,24 +1,24 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,30:1a0533,65:4c1d95,100:312e81&text=OMID%20TAVAKOLY&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Engineer&descAlignY=59&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,30:1a0533,65:4c1d95,100:312e81&text=OMIDREZA%20TAVAKOLY&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20Backend%20%26%20Cloud%20Systems&descAlignY=59&descSize=17" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Golang+%7C+Node.js+%7C+Python+%7C+TypeScript;Full-Stack+%26+AI+Product+Engineer;Cloud-Native+%7C+Distributed+Systems+%7C+AWS;Building+Reliable+Software+That+Scales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Software+Engineer;Go+%7C+Node.js+%7C+C%23+%7C+.NET+Core;React+%7C+Next.js+%7C+TypeScript;Scalable+APIs+%7C+Distributed+Systems;Cloud+Applications+%7C+DevOps+%7C+System+Design)](https://git.io/typing-svg)
 
 <br/>
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-111827?style=flat-square&logo=academia&logoColor=A78BFA)
-![AI Engineering](https://img.shields.io/badge/AI_%26_ML_Engineering-111827?style=flat-square&logo=openai&logoColor=A78BFA)
-![Full Stack](https://img.shields.io/badge/Full--Stack_Engineering-111827?style=flat-square&logo=stackblitz&logoColor=818CF8)
-![Cloud Native](https://img.shields.io/badge/Cloud--Native_Systems-111827?style=flat-square&logo=amazonwebservices&logoColor=818CF8)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-111827?style=flat-square&logo=codeforces&logoColor=A78BFA)
+![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-111827?style=flat-square&logo=go&logoColor=818CF8)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Engineering-111827?style=flat-square&logo=stackblitz&logoColor=A78BFA)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-111827?style=flat-square&logo=apachekafka&logoColor=818CF8)
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-T%C3%BCrkiye-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/omidtavakoly?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+![Location](https://img.shields.io/badge/Muscat-Oman-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/omidtavakoly?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-tavakoly/)
+[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omidtavakoly1523@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidtavakoly)
 
 <br/>
@@ -33,22 +33,24 @@
 
 ## About
 
-I'm a **Senior Software Engineer and Full-Stack Product Engineer** focused on designing and delivering scalable, production-grade systems across backend engineering, modern web applications, AI-powered products, cloud infrastructure, and developer tooling.
+I'm a **Senior Full-Stack Software Engineer** based in **Muscat, Oman**, with **5+ years of professional experience** building production-ready web applications, backend services, APIs, and scalable business systems.
 
-My core engineering work centers around **Golang, Node.js, TypeScript, Python, React, Next.js, AWS, APIs, distributed systems, automation, and AI/ML integrations**. I enjoy working at the intersection of strong software architecture and practical product execution — turning complex requirements into maintainable systems that are reliable, observable, secure, and ready to scale.
+My core engineering focus is backend and full-stack development using **Go (Golang), Node.js, TypeScript, C#, .NET Core, React, and Next.js**, with hands-on experience across API architecture, relational databases, caching, asynchronous processing, event-driven systems, containerization, CI/CD, cloud infrastructure, and production operations.
 
-I approach engineering with a **product mindset**: architecture matters, but so do latency, developer experience, operational simplicity, user experience, security, deployment velocity, and measurable business impact.
+I have worked on systems involving **REST APIs, microservices, distributed architecture, authentication and authorization, payment processing, background jobs, real-time communication, data synchronization, message brokers, concurrency, and production infrastructure**.
 
-On the AI side, I work with **LLM-powered applications, speech-to-text pipelines, retrieval systems, intelligent assistants, workflow automation, local inference, and AI-backed product features**. My focus is not simply integrating models — it is building the infrastructure, context pipelines, APIs, streaming layers, and product experiences required to make AI features useful in real-world applications.
+I enjoy solving engineering problems where reliability, performance, maintainability, scalability, and clean architecture matter. My approach combines strong backend architecture with practical product engineering — from database design and API implementation to frontend development, deployment, debugging, and production support.
 
 ### Open To
 
-- **Senior Full-Stack / Backend Engineering**
-- **Golang Engineering**
-- **AI / LLM Product Engineering**
-- **Cloud & Distributed Systems**
-- **Technical Product Development**
-- **Remote Engineering Opportunities**
+- **Senior Full-Stack Engineering**
+- **Backend Engineering**
+- **Golang Development**
+- **C# / .NET Core Development**
+- **API & Distributed Systems Engineering**
+- **Cloud Application Development**
+- **Remote Software Engineering Opportunities**
+- **Long-Term Product Engineering**
 - **Open-Source Collaboration**
 
 ---
@@ -59,7 +61,7 @@ On the AI side, I work with **LLM-powered applications, speech-to-text pipelines
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,js,python,java,bash,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,ts,js,cs,python,bash,html,css&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -67,329 +69,509 @@ On the AI side, I work with **LLM-powered applications, speech-to-text pipelines
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,vite,tailwind,sass,materialui&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css,js,ts&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Backend & Databases
+### Backend
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,nestjs,django,flask,spring,postgres,mysql,mongodb,redis,graphql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,nodejs,nestjs,express,dotnet,cs&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Databases & Caching
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,git,github,linux,terraform,postman,grafana,prometheus&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<p align="center">
 
-## AI / ML Expertise
+![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![Database Design](https://img.shields.io/badge/Database_Design-111827?style=flat-square&logo=postgresql&logoColor=818CF8)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-111827?style=flat-square&logo=databricks&logoColor=A78BFA)
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **LLM Application Engineering** | `Advanced` | Context-aware assistants, structured prompting, streaming responses, tool integration, conversation systems, production AI workflows |
-| **Generative AI Systems** | `Advanced` | LLM-backed products, response orchestration, prompt architecture, model routing, structured outputs and workflow automation |
-| **Speech AI / STT** | `Advanced` | Real-time transcription pipelines, GPT-4o Transcribe integrations, microphone/system-audio processing and streaming |
-| **AI Product Engineering** | `Advanced` | End-to-end AI features from model integration to frontend experience, backend APIs, observability and deployment |
-| **RAG & Context Systems** | `Proficient` | Document processing, retrieval pipelines, embeddings, contextual search and knowledge-assisted generation |
-| **Python ML Ecosystem** | `Proficient` | Python-based ML workflows, inference APIs, preprocessing, experimentation and AI service integration |
-| **Local AI Infrastructure** | `Proficient` | Ollama-based local models, containerized inference, local-first AI workflows and hybrid cloud/local architectures |
-| **AI API Integration** | `Advanced` | OpenAI-compatible APIs, model abstractions, retries, streaming, rate-limit handling, secure credential architecture |
-| **Automation & Agents** | `Advanced` | AI-assisted workflow automation, task orchestration, tool-driven assistants and backend automation systems |
+</p>
 
----
+### Messaging & Real-Time Systems
 
-## Featured Projects
+<div align="center">
 
-<details>
-<summary><b>Interview Copilot — Real-Time AI Interview Assistant</b></summary>
+[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark)](https://skillicons.dev)
 
-<br/>
+</div>
 
-A real-time AI engineering platform designed to assist users during technical and professional interviews through independent audio capture, live speech transcription, contextual reasoning, and fast human-readable answer generation.
+<p align="center">
 
-| Area | Details |
-|:---|:---|
-| **Stack** | Golang, TypeScript, Chrome Extension APIs, OpenAI APIs, Docker, SSE, Web APIs |
-| **Scale** | Real-time multi-stream audio and AI processing architecture |
-| **Performance** | Streaming transcription and low-latency answer delivery optimized for live conversations |
-| **Security** | API credential isolation, backend proxy architecture, CORS hardening and client authentication design |
-| **Impact** | Combines audio engineering, LLM orchestration and real-time UX into a unified interview workflow |
-| **Repository** | [github.com/omidtavakoly/interview-copilot](https://github.com/omidtavakoly/interview-copilot) |
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-111827?style=flat-square&logo=apachekafka&logoColor=A78BFA)
+![Background Processing](https://img.shields.io/badge/Background_Processing-111827?style=flat-square&logo=buffer&logoColor=818CF8)
+![Real Time](https://img.shields.io/badge/Real--Time_Systems-111827?style=flat-square&logo=socketdotio&logoColor=A78BFA)
 
-The platform separates **system audio and microphone input**, allowing interviewer and candidate speech to be handled independently. Audio is routed through transcription services before contextual data is supplied to an LLM-based answer-generation pipeline.
+</p>
 
-The architecture supports configurable direct and backend-proxy communication models, Server-Sent Events for streaming responses, session-specific resume/context storage, Dockerized services, and modular model integrations.
+### Cloud, DevOps & Infrastructure
 
-**Engineering Highlights**
+<div align="center">
 
-- Designed real-time transcription and response pipelines
-- Separated interviewer and candidate audio sources
-- Implemented streaming AI response architecture
-- Designed configurable model and API provider support
-- Audited SSE middleware behavior and HTTP streaming compatibility
-- Evaluated extension authentication and CORS security boundaries
-- Containerized supporting services for reproducible development
-- Built session-driven contextual interview workflows
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,gitlab,jenkins,nginx,linux&theme=dark)](https://skillicons.dev)
 
-**Skills:**  
-`Golang` `TypeScript` `Chrome Extensions` `SSE` `OpenAI` `Real-Time Systems` `Docker` `API Security` `LLM Engineering`
+</div>
 
-</details>
+<p align="center">
 
-<br/>
+![Hetzner](https://img.shields.io/badge/Hetzner-111827?style=flat-square&logo=hetzner&logoColor=D50C2D)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=818CF8)
+![DNS](https://img.shields.io/badge/DNS-111827?style=flat-square&logo=cloudflare&logoColor=A78BFA)
+![CDN](https://img.shields.io/badge/CDN-111827?style=flat-square&logo=cloudflare&logoColor=818CF8)
 
-<details>
-<summary><b>Lenio — Full-Stack Application Platform</b></summary>
+</p>
 
-<br/>
+### Engineering
 
-A production-focused application ecosystem covering mobile application delivery, backend services, deployment workflows, application maintenance, and integration of external platform capabilities.
+<p align="center">
 
-| Area | Details |
-|:---|:---|
-| **Stack** | Backend APIs, Mobile Application, Docker, CI/CD, Third-Party Integrations |
-| **Scale** | Multi-component product architecture spanning client and backend systems |
-| **Performance** | Production build optimization and deployment-focused engineering |
-| **Security** | Structured backend integration and controlled external service connectivity |
-| **Impact** | Improved delivery workflow across application builds, backend features and production releases |
-| **Repository** | [Explore GitHub](https://github.com/omidtavakoly?tab=repositories) |
+![System Design](https://img.shields.io/badge/System_Design-4C1D95?style=for-the-badge)
+![API Architecture](https://img.shields.io/badge/API_Architecture-312E81?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-4338CA?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-5B21B6?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-4F46E5?style=for-the-badge)
 
-Engineering responsibilities include application/backend feature development, production build preparation, release deployment, integration work, documentation, troubleshooting, and maintaining consistency between application and server-side functionality.
-
-**Engineering Highlights**
-
-- Prepared and maintained technical implementation documentation
-- Built and deployed production Android application releases
-- Worked across backend and application layers
-- Integrated payment-system capabilities
-- Diagnosed and corrected asset and application update issues
-- Improved deployment and release workflows
-
-**Skills:**  
-`Full-Stack Development` `Backend Engineering` `Mobile Delivery` `API Integration` `Payments` `DevOps` `Documentation`
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>AI Chatbot Support Backend — Intelligent Customer Support Platform</b></summary>
-
-<br/>
-
-A backend architecture for AI-assisted support experiences, combining conversational interfaces, contextual processing, AI model integration, and production-ready API services.
-
-| Area | Details |
-|:---|:---|
-| **Stack** | Golang / Node.js, Python, LLM APIs, REST APIs, Docker |
-| **Scale** | Multi-session conversational backend architecture |
-| **Performance** | Optimized request processing and AI response delivery |
-| **Security** | Server-side model credentials and controlled API boundaries |
-| **Impact** | Enables intelligent automated support flows and scalable conversational experiences |
-| **Repository** | [Explore GitHub](https://github.com/omidtavakoly?tab=repositories) |
-
-The project focuses on turning LLM capabilities into reliable backend services rather than exposing AI models directly to clients. Core engineering considerations include contextual conversation state, external API integration, structured responses, model configuration, service reliability, and documentation.
-
-**Engineering Highlights**
-
-- Designed AI-support backend workflows
-- Integrated LLM-based conversational capabilities
-- Structured maintainable model-service boundaries
-- Prepared implementation and architecture documentation
-- Supported deployment-oriented backend workflows
-- Designed scalable APIs for client-side consumption
-
-**Skills:**  
-`AI Engineering` `Backend Architecture` `LLM APIs` `REST` `Docker` `Python` `Golang` `Node.js`
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Cloud-Native API & Automation Systems</b></summary>
-
-<br/>
-
-Backend and automation systems engineered around scalable APIs, distributed services, infrastructure automation, cloud deployments, observability, and maintainable service boundaries.
-
-| Area | Details |
-|:---|:---|
-| **Stack** | Golang, Node.js, AWS, PostgreSQL, Redis, Docker, GitHub Actions |
-| **Scale** | Service-oriented and cloud-native application environments |
-| **Performance** | Efficient API design, asynchronous processing and cache-aware architecture |
-| **Security** | Authentication, authorization, secrets management and least-privilege service design |
-| **Impact** | Faster deployment cycles, improved reliability and stronger operational visibility |
-| **Repository** | [Explore Repositories](https://github.com/omidtavakoly?tab=repositories) |
-
-These systems emphasize clean architecture, service isolation, maintainable APIs, deployment automation, observability, robust error handling, security controls, and engineering practices designed for long-term maintainability.
-
-**Engineering Highlights**
-
-- Built production-oriented REST APIs
-- Designed service-oriented backend architectures
-- Containerized development and production workloads
-- Implemented cloud deployment workflows
-- Integrated caching and persistent data layers
-- Automated build and deployment processes
-- Improved system observability and operational debugging
-
-**Skills:**  
-`Golang` `Node.js` `AWS` `PostgreSQL` `Redis` `Docker` `CI/CD` `Distributed Systems`
-
-</details>
+</p>
 
 ---
 
-## Experience
+## Featured Engineering Work
 
-### Senior Full-Stack & AI Engineer
-**Independent / Contract Engineering**
+<details>
+<summary><b>Scalable Go Backend Services — AiBai Company</b></summary>
 
-`2021 — Present`
+<br/>
 
-Designing and delivering full-stack applications, backend platforms, AI-enabled products, cloud infrastructure, and production automation for real-world software projects.
+Designed, developed, and maintained backend services for multiple production products using **Go, Gin, Fiber, PostgreSQL, and REST APIs**.
 
-**Scope of Work**
+| Area | Details |
+|:---|:---|
+| **Stack** | Go, Gin, Fiber, PostgreSQL, REST APIs |
+| **Architecture** | Modular backend services, API-driven applications |
+| **Data Layer** | PostgreSQL, relational modeling, service-level data access |
+| **Performance** | Concurrent backend workflows and production optimization |
+| **Security** | Authentication, authorization, role-based access |
+| **Environment** | Production systems used across multiple products |
+| **Repository** | Private / Professional Work |
 
-- Architect and implement backend services using **Golang, Node.js and Python**
-- Build modern frontend applications using **React, Next.js and TypeScript**
-- Design scalable **REST, GraphQL and real-time APIs**
-- Develop AI-powered applications using modern **LLM and speech AI APIs**
-- Engineer asynchronous and streaming workflows for real-time applications
-- Integrate external APIs, payment services and third-party platforms
-- Build containerized development and deployment environments with **Docker**
-- Design cloud-native workloads and deployment pipelines on **AWS**
-- Create relational and NoSQL data architectures using **PostgreSQL, MySQL, MongoDB and Redis**
-- Troubleshoot complex production and application integration issues
-- Write technical documentation for application and backend implementations
-- Own features across architecture, implementation, testing, deployment and maintenance
+### Engineering Scope
 
-**Skills**
+- Built and maintained production backend services using **Go**
+- Worked with both **Gin** and **Fiber**
+- Designed RESTful API endpoints and service integrations
+- Implemented business logic for multiple applications
+- Connected backend services to PostgreSQL databases
+- Supported frontend and mobile application requirements
+- Diagnosed backend and API issues in production
+- Maintained services throughout active product development
+- Participated in deployment and production support
+- Evaluated implementation risks before development
+- Adjusted technical decisions to reduce delivery issues and rework
+
+**Technologies**
+
+`Go` `Gin` `Fiber` `PostgreSQL` `REST API` `Authentication` `Backend Architecture` `Production Systems`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Customer-Facing Web Platforms — AiBai Company</b></summary>
+
+<br/>
+
+Developed customer-facing web applications and internal management systems using modern frontend technologies integrated with production backend services.
+
+| Area | Details |
+|:---|:---|
+| **Stack** | React, Next.js, TypeScript, REST APIs |
+| **Frontend** | Responsive product interfaces and dashboards |
+| **Backend Integration** | API-driven frontend/backend communication |
+| **Access Control** | Authentication and role-based functionality |
+| **Business Features** | Data management, user panels and admin systems |
+| **Repository** | Private / Professional Work |
+
+### Engineering Scope
+
+- Developed production interfaces with **React**
+- Built application functionality with **Next.js**
+- Used **TypeScript** for maintainable frontend development
+- Built reusable administrative dashboards
+- Developed user-facing management panels
+- Integrated frontend applications with backend REST APIs
+- Implemented authentication workflows
+- Implemented role-based access controls
+- Developed data-management interfaces
+- Debugged full-stack application issues
+- Worked across frontend and backend boundaries when resolving production problems
+
+**Technologies**
+
+`React` `Next.js` `TypeScript` `REST API` `RBAC` `Authentication` `Admin Dashboard`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Mobile Application Backend & Data Synchronization — AiBai Company</b></summary>
+
+<br/>
+
+Designed backend systems supporting complex mobile applications with concurrent workflows, API integrations, data synchronization, and production business logic.
+
+| Area | Details |
+|:---|:---|
+| **Stack** | Go, PostgreSQL, REST APIs |
+| **Architecture** | API-centric mobile backend |
+| **Concurrency** | Concurrent and background application workflows |
+| **Integration** | Internal and third-party API integrations |
+| **Data** | Synchronization and persistent application state |
+| **Repository** | Private / Professional Work |
+
+### Engineering Scope
+
+- Designed backend functionality for complex mobile applications
+- Built APIs consumed by mobile clients
+- Managed application data synchronization
+- Implemented concurrent processing where required
+- Integrated external and internal application services
+- Developed backend business rules
+- Debugged synchronization and integration problems
+- Supported production deployment and maintenance
+- Coordinated backend changes with frontend/mobile requirements
+
+**Technologies**
+
+`Go` `PostgreSQL` `REST API` `Concurrency` `Data Synchronization` `API Integration`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Payment & Transaction Processing Systems — AiBai Company</b></summary>
+
+<br/>
+
+Implemented and maintained payment flows and transaction-processing logic for production applications.
+
+| Area | Details |
+|:---|:---|
+| **Backend** | Go-based business logic |
+| **Processing** | Payment and transaction workflows |
+| **Reliability** | Transaction-state handling and backend validation |
+| **Integration** | Payment service integration |
+| **Production** | Debugging and operational support |
+| **Repository** | Private / Professional Work |
+
+### Engineering Scope
+
+- Implemented payment-processing workflows
+- Developed transaction handling logic
+- Integrated application backend services with payment systems
+- Managed payment-related business rules
+- Debugged payment and transaction issues
+- Worked on reliability of payment state transitions
+- Supported production payment functionality
+- Maintained backend APIs used during transaction workflows
+
+**Technologies**
+
+`Go` `REST API` `Payment Integration` `Transactions` `Backend Services`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Enterprise Backend Applications — Faramehr Gostar IT Company</b></summary>
+
+<br/>
+
+Developed backend services, REST APIs, and internal business features for enterprise applications.
+
+| Area | Details |
+|:---|:---|
+| **Stack** | Go, PostgreSQL, REST APIs |
+| **Architecture** | Enterprise backend services |
+| **Database** | PostgreSQL |
+| **Optimization** | Query optimization, indexing, performance troubleshooting |
+| **Concurrency** | Goroutines and Channels |
+| **Repository** | Private / Professional Work |
+
+### Engineering Scope
+
+- Built backend services using **Go**
+- Developed REST APIs for enterprise applications
+- Implemented backend business logic
+- Integrated backend services with internal systems
+- Designed and maintained PostgreSQL data models
+- Wrote and optimized SQL queries
+- Worked with database indexes
+- Diagnosed database performance problems
+- Used **Goroutines** for concurrent workloads
+- Used **Channels** for communication between concurrent processes
+- Implemented background-processing functionality
+- Reviewed backend code
+- Tested backend features
+- Diagnosed application problems
+- Supported application releases
+- Resolved production issues
+
+**Technologies**
+
+`Go` `PostgreSQL` `REST API` `Goroutines` `Channels` `SQL` `Backend Engineering`
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Independent Full-Stack Applications & Backend Systems</b></summary>
+
+<br/>
+
+Designed and delivered full-stack software systems independently using backend, frontend, database, cloud, messaging, and infrastructure technologies.
+
+| Area | Details |
+|:---|:---|
+| **Backend** | Go, Gin, Fiber, Node.js, Express, NestJS |
+| **Frontend** | React, Next.js, TypeScript |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Redis |
+| **Messaging** | RabbitMQ, Apache Kafka |
+| **Infrastructure** | Docker, AWS, Hetzner |
+| **Deployment** | CI/CD and production infrastructure |
+| **Repository** | [GitHub Repositories](https://github.com/omidtavakoly?tab=repositories) |
+
+### Engineering Scope
+
+- Built complete full-stack applications
+- Developed backend systems with **Go**
+- Used **Gin** and **Fiber** for Go API development
+- Developed Node.js services using **Express**
+- Built structured Node.js applications using **NestJS**
+- Developed interfaces using **React**
+- Built modern web applications with **Next.js**
+- Used **TypeScript** across frontend and backend applications
+- Designed REST APIs
+- Integrated external and internal services
+- Designed frontend/backend communication layers
+- Worked with **PostgreSQL**
+- Worked with **MySQL**
+- Worked with **SQL Server**
+- Used **Redis** for caching and performance optimization
+- Managed data modeling and persistence
+- Built asynchronous processing workflows
+- Used **RabbitMQ** for asynchronous workloads
+- Used **Apache Kafka** for event-driven communication
+- Containerized applications using **Docker**
+- Managed CI/CD pipelines
+- Deployed and maintained infrastructure on **AWS**
+- Managed production workloads on **Hetzner**
+- Diagnosed deployment and infrastructure issues
+- Supported applications after production release
+
+**Technologies**
+
+`Go` `Node.js` `Gin` `Fiber` `Express` `NestJS` `React` `Next.js` `TypeScript` `PostgreSQL` `MySQL` `SQL Server` `Redis` `RabbitMQ` `Kafka` `Docker` `AWS` `Hetzner`
+
+</details>
+
+---
+
+## Professional Experience
+
+### Independent Software Engineer
+**Full-Stack Developer — Remote**
+
+`June 2020 — Present`
+
+Independent software engineer responsible for designing, developing, deploying, and maintaining complete software products across backend, frontend, databases, messaging, and cloud infrastructure.
+
+#### Responsibilities
+
+- Build full-stack applications and backend services using **Go, Node.js, React, Next.js, and TypeScript**
+- Develop Go applications with **Gin** and **Fiber**
+- Develop Node.js services with **Express** and **NestJS**
+- Design and implement production REST APIs
+- Build frontend/backend communication architecture
+- Integrate internal and external services
+- Design database schemas and application data models
+- Work with **PostgreSQL, MySQL, SQL Server, and Redis**
+- Implement application caching and performance improvements
+- Build asynchronous processing workflows
+- Implement event-driven communication with **RabbitMQ and Apache Kafka**
+- Containerize services and applications using **Docker**
+- Build and maintain CI/CD pipelines
+- Deploy production applications to **AWS**
+- Operate workloads and servers on **Hetzner**
+- Configure Linux production environments
+- Troubleshoot application and infrastructure problems
+- Maintain deployed systems and production services
+
+#### Core Technologies
 
 ![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=512BD4)
+![.NET Core](https://img.shields.io/badge/.NET_Core-111827?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![AI](https://img.shields.io/badge/AI_Engineering-111827?style=flat-square&logo=openai&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
 
 ---
 
-### Full-Stack Software Engineer
-**Software Product Engineering**
+### Full-Stack Developer
+**AiBai Company — Oslo, Norway · Remote**
 
-`2020 — 2023`
+`September 2023 — February 2026`
 
-Worked across frontend, backend and infrastructure layers to deliver maintainable product features and scalable web applications.
+Worked as a remote Full-Stack Developer building and maintaining backend services, web applications, mobile backend systems, payment functionality, and production software across multiple company products.
 
-**Scope of Work**
+#### Responsibilities
 
-- Developed reusable frontend architecture and product interfaces
-- Designed backend business logic and API integrations
-- Maintained databases and server-side application services
-- Improved application reliability and deployment processes
-- Collaborated across the entire software development lifecycle
-- Diagnosed performance, integration and environment-specific issues
-- Implemented authentication and authorization workflows
-- Supported production releases and post-deployment maintenance
+- Built backend services using **Go**
+- Developed production services with **Gin** and **Fiber**
+- Designed and maintained REST APIs
+- Worked extensively with **PostgreSQL**
+- Built customer-facing web applications
+- Developed interfaces using **React**
+- Built applications using **Next.js**
+- Used **TypeScript** throughout frontend development
+- Built reusable administrative dashboards
+- Developed user-management panels
+- Implemented authentication systems
+- Implemented role-based access control
+- Developed data-management functionality
+- Designed backend architecture for complex mobile applications
+- Implemented application data synchronization
+- Worked with concurrent application workflows
+- Integrated APIs and external services
+- Implemented payment-processing flows
+- Developed transaction handling logic
+- Maintained backend payment functionality
+- Worked across frontend and backend development
+- Debugged production applications
+- Participated in deployment activities
+- Provided production support
+- Identified technical risks before implementation
+- Adjusted architecture and implementation approaches when necessary
+- Reduced avoidable engineering rework through early technical evaluation
 
-**Skills**
+#### Core Technologies
 
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
+![Gin](https://img.shields.io/badge/Gin-111827?style=flat-square&logo=go&logoColor=00ADD8)
+![Fiber](https://img.shields.io/badge/Fiber-111827?style=flat-square&logo=go&logoColor=00ADD8)
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![REST](https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
 
-## Achievements
+### Backend Developer
+**Faramehr Gostar IT Company — Isfahan, Iran · On-site**
+
+`November 2021 — June 2023`
+
+Backend developer responsible for enterprise backend services, REST APIs, business logic, PostgreSQL data access, concurrent processing, testing, releases, and production troubleshooting.
+
+#### Responsibilities
+
+- Developed backend services using **Go**
+- Built REST APIs for enterprise applications
+- Developed internal business functionality
+- Implemented backend business logic
+- Integrated backend services
+- Designed PostgreSQL data models
+- Wrote production SQL queries
+- Optimized database queries
+- Implemented and reviewed database indexes
+- Diagnosed database performance issues
+- Used **Goroutines** for concurrent processing
+- Used **Channels** for coordination between concurrent workloads
+- Built background-processing functionality
+- Reviewed backend code
+- Tested backend functionality
+- Diagnosed application issues
+- Supported releases
+- Investigated production bugs
+- Implemented production fixes
+
+#### Core Technologies
+
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![REST](https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=postman&logoColor=FF6C37)
+![Concurrency](https://img.shields.io/badge/Go_Concurrency-111827?style=flat-square&logo=go&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL_Optimization-111827?style=flat-square&logo=postgresql&logoColor=818CF8)
+
+---
+
+## Engineering Expertise
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---|
-| **Full-Stack Product Ownership** | Delivered engineering work across frontend, backend, infrastructure and production deployment |
-| **Real-Time AI Engineering** | Built architectures combining live audio, transcription, streaming and contextual LLM generation |
-| **Backend Architecture** | Designed maintainable API and service architectures using Golang, Node.js and Python |
-| **Cloud-Native Engineering** | Built containerized and deployment-ready systems using Docker, AWS and automated workflows |
-| **Cross-Stack Engineering** | Worked effectively across frontend, backend, AI, infrastructure and product layers |
-| **Production Delivery** | Managed application build, deployment, technical documentation and release-oriented workflows |
-| **Open-Source Engineering** | Audited real-world repositories for streaming, middleware, security and architectural issues |
-| **AI Product Development** | Integrated modern AI models into usable production-oriented software experiences |
+| Area | Engineering Experience |
+|:---|:---|
+| **Backend Engineering** | Go, Node.js, C#, .NET Core, REST APIs, Microservices |
+| **Frontend Engineering** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, MUI |
+| **API Architecture** | RESTful API design, integrations, service communication, authentication |
+| **System Design** | Scalable systems, distributed systems, service boundaries, clean architecture |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Redis |
+| **Database Performance** | Query optimization, indexing, performance tuning, data modeling |
+| **Concurrency** | Goroutines, Channels, background processing, concurrent workflows |
+| **Messaging** | RabbitMQ, Apache Kafka, asynchronous processing |
+| **Real-Time Systems** | WebSockets, notifications, event-driven communication |
+| **Security** | Authentication, authorization, JWT, role-based access control |
+| **Payments** | Payment flows, transactions, backend processing and integrations |
+| **DevOps** | Docker, Git, GitLab CI/CD, Jenkins, Nginx |
+| **Cloud & Infrastructure** | AWS, Hetzner, Linux, DNS, CDN |
+| **Engineering Practices** | Code review, Agile/Scrum, debugging, production support |
+| **Modernization** | Legacy-system modernization and maintainability improvements |
 
 </div>
 
 ---
 
-## Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Engineering-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![AWS Architecture](https://img.shields.io/badge/AWS-Architecture_%26_Deployment-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Software_%26_Database_Track-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Computer_Science_%26_Engineering-4C1D95?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking_%26_Infrastructure-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## Coding Profiles
+## Professional Highlights
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR_USERNAME/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/user/YOUR_USERNAME/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/YOUR_USERNAME)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omidtavakoly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidtavakoly&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
-<br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=omidtavakoly&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omidtavakoly&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| Focus | Details |
+|:---|:---|
+| **5+ Years of Engineering Experience** | Professional experience building production-ready applications and backend systems |
+| **Go Backend Development** | Production backend services using Go, Gin, Fiber and PostgreSQL |
+| **Full-Stack Delivery** | Experience across backend, frontend, database, deployment and production support |
+| **Enterprise Backend Engineering** | Developed internal services, REST APIs and business functionality for enterprise applications |
+| **Payment Systems** | Implemented and maintained payment flows and transaction-processing logic |
+| **Concurrent Systems** | Worked with Goroutines, Channels and concurrent application workflows |
+| **Event-Driven Architecture** | RabbitMQ and Apache Kafka for asynchronous and event-based workloads |
+| **Database Engineering** | PostgreSQL, MySQL, SQL Server and Redis with query optimization and performance tuning |
+| **Cloud Deployment** | Production workloads deployed and managed using AWS, Hetzner and Docker |
+| **CI/CD** | Experience with automated delivery using GitLab CI/CD and Jenkins |
+| **Production Ownership** | Debugging, deployment, releases, operational troubleshooting and production fixes |
+| **Remote Collaboration** | Professional remote product engineering experience with an international team |
 
 </div>
 
@@ -399,54 +581,34 @@ Worked across frontend, backend and infrastructure layers to deliver maintainabl
 
 <div align="center">
 
-[![Omid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omidtavakoly&bg_color=0d1117&color=a78bfa&line=7c3aed&point=818cf8&area=true&area_color=4c1d95&hide_border=true&custom_title=Engineering%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/6d28d9/omidtavakoly" alt="Omid Tavakoly GitHub Contribution Chart" width="100%" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Connect
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![Email](https://img.shields.io/badge/Gmail-omidtavakoly1523%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omidtavakoly1523@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omid_Tavakoly-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-tavakoly/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-omidtavakoly-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidtavakoly)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Repositories-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/omidtavakoly?tab=repositories)
 
 </div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-```yaml
-learning:
-  - Advanced Distributed Systems
-  - High-Performance Golang
-  - Production LLM Architecture
-  - AI Agent Orchestration
-  - Cloud-Native System Design
+### *Building scalable software, reliable backend systems, and products engineered for production.*
 
-building:
-  - Real-Time AI Applications
-  - Golang Backend Platforms
-  - Intelligent Developer Tools
-  - LLM-Powered Product Experiences
-  - Scalable Full-Stack Systems
+</div>
 
-exploring:
-  - Multi-Agent Architectures
-  - Local + Cloud Hybrid AI
-  - Low-Latency Streaming Systems
-  - Retrieval-Augmented Generation
-  - AI Infrastructure & Observability
-
-open_to:
-  - Senior Software Engineering Roles
-  - Golang Backend Engineering
-  - Full-Stack Product Engineering
-  - AI / LLM Engineering
-  - Remote Global Opportunities
-  - Open-Source Collaboration
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312e81,45:4c1d95,75:1a0533,100:090014" />
+</p>

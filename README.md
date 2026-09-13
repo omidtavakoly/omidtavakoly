@@ -408,15 +408,30 @@ Designed and delivered full-stack software systems independently using backend, 
 </div>
 
 ---
-
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/6d28d9/omidtavakoly" alt="Omid Tavakoly GitHub Contribution Chart" width="100%" />
 
-</div>
+<br/><br/>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Omid Tavakoly GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 ---
 
 ## Connect

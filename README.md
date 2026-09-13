@@ -412,10 +412,6 @@ Designed and delivered full-stack software systems independently using backend, 
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6d28d9/omidtavakoly" alt="Omid Tavakoly GitHub Contribution Chart" width="100%" />
-
-<br/><br/>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -426,8 +422,9 @@ Designed and delivered full-stack software systems independently using backend, 
     srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Omid Tavakoly GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg"
+    alt="Omid Tavakoly Contribution Snake"
+    src="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
   />
 </picture>
 

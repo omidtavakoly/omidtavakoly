@@ -12,6 +12,20 @@ System and Infrastructure Engineering is my true passion in developing reliable,
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg" />
+  <img alt="Omid Tavakoly's GitHub contribution snake" src="https://raw.githubusercontent.com/omidtavakoly/omidtavakoly/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### *Building scalable software, reliable backend systems, and products engineered for production.*
